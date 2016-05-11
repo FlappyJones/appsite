@@ -67,7 +67,7 @@ a:active
 
 .content-card	
 {
-	width: 60%; 
+	width: 80%; 
 	background-color: #fff; 
 	margin: auto; 
 	margin-top: 15%; 
@@ -115,7 +115,7 @@ a:active
 
 .content-works
 {
-	width: 60%; 
+	width: 80%; 
 	background-color: transparent; 
 	margin: auto;
 	overflow: auto;
